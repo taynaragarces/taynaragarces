@@ -1,11 +1,11 @@
 # Taynara Garces de Lima
 
-Uma maranhense que ama viajar e experimentar novos sabores. Atualmente sou UI Designer, porém sempre tive interesse na área de Dados. Desde março de 2024 tenho começado minha trajetória para migrar e conseguir uma vaga com Analista de Dados.
+Uma maranhense que ama viajar e experimentar novos sabores. Atualmente sou UI Designer, porém sempre tive interesse na área de Dados. Desde março de 2024 dei início a minha trajetória para migrar e conseguir uma vaga com Analista de Dados.
 Sou graduada em Sistemas de informação pelo IFMA e estou fazendo uma outra formação de dados pela Coursera em Análise de Dados.
 Cada projeto me inspira a aprimorar minhas habilidades e conhecimentos. Minha jornada de constante aprendizado me mantém motivada a abraçar novos desafios.
-Fora do trabalho, encontro na expressão manual do artesanato 🧶 uma forma de explorar minha criatividade. Eu cuido da minha dupla canina, Pipoca e Paçoca 🐩.
+Fora do trabalho, encontro no artesanato 🧶 uma forma de explorar minha criatividade. Cuido dos meus tesouros, Pipoca e Paçoca 🐩.
 
-Make my way back home when I learn to fly high 🎼 Learn to fly - Foo Fighters
+Make my way back home when I learn to fly high 🎼 Learn to fly - Foo Fighters <br>
 🇧🇷🇦🇷🇬🇧🇫🇷🇪🇸
 
 ## Estou usando 
