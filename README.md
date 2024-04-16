@@ -1,6 +1,11 @@
 # Taynara Garces de Lima
 
-Estou migrando de área atualmente sou UI Designer, porém sempre tive interesse na área de Dados. Sou graduada em Sistemas de informação pelo IFMA e estou fazendo uma outra formação de dados pela Coursera em Análise de Dados.
+Estou migrando de área. Atualmente sou UI Designer, porém sempre tive interesse na área de Dados. 
+Sou graduada em Sistemas de informação pelo IFMA e estou fazendo uma outra formação de dados pela Coursera em Análise de Dados.
+Cada projeto me inspira a aprimorar minhas habilidades e conhecimentos. Minha jornada de constante aprendizado me mantém motivada a abraçar novos desafios.
+Fora do trabalho, encontro na expressão manual do artesanato 🧶 uma forma de explorar minha criatividade. Eu cuido da minha dupla canina, Pipoca e Paçoca 🐩.
+
+Make my way back home when I learn to fly high 🎼 Learn to fly - Foo Fighters
 
 ## Estou usando 
 - ![Fedora](https://img.shields.io/badge/Fedora-000?style=for-the-badge&logo=fedora&logoColor=white)
